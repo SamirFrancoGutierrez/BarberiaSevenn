@@ -3,7 +3,7 @@ Creación de Página para un cliente que tiene un Negocio de Barbería y Spa
 ## 1.Intro 
 El proyecto fue creado con **HTML, CSS3 Y JAVASCRIPT**. Se trata de un sistema completo para el crecimiento de la empresa
 *Puede visitar el sitio de el siguiente enlace:
-![SISTEMA DE VENTA](Image/barberia.jpg)
+![BARBERIA SEVEN](Image/barberia.jpg)
 
 **El éxito de un negocio comienza con innovación continua y tendencias recientes  ☺️**
 
